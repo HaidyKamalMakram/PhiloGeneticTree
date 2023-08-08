@@ -1,13 +1,3 @@
-#Merna Hesham Mahmoud
-#Haidy Kamal Makram
-#Yara Amr Ahmed
-#Maram Nasser
-#Maram Hatem
-#Yasmine Mohamed El-Gazar
-
-
-
-
 import numpy as np
 
 Row = int(input("Enter the number of rows:"))
